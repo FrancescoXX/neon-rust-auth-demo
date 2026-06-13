@@ -12,6 +12,9 @@ The app lets users sign up, sign in, view a protected page, and create personal 
 
 ## Project structure
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/83806938-9476-4aae-8ffb-c97bd2289392" />
+
+
 ```txt
 neon-rust-auth-demo/
   frontend/
